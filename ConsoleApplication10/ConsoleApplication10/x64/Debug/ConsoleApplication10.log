@@ -1,0 +1,5 @@
+﻿  ConsoleApplication10.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Enterprise\VC\Tools\MSVC\14.39.33519\include\filesystem(12): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+  ConsoleApplication10.vcxproj -> C:\MPP\ConsoleApplication10\x64\Debug\ConsoleApplication10.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
