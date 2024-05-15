@@ -1,0 +1,5 @@
+﻿  ConsoleApplication23.cpp
+C:\MPP\ConsoleApplication23\ConsoleApplication23\ConsoleApplication23.cpp(35,19): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ConsoleApplication23.vcxproj -> C:\MPP\ConsoleApplication23\x64\Debug\ConsoleApplication23.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
