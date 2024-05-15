@@ -1,0 +1,5 @@
+﻿  ConsoleApplication9.cpp
+C:\MPP\ConsoleApplication9\ConsoleApplication9\ConsoleApplication9.cpp(58,17): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  ConsoleApplication9.vcxproj -> C:\MPP\ConsoleApplication9\x64\Debug\ConsoleApplication9.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
